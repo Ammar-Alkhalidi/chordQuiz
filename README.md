@@ -1,3 +1,4 @@
+# chordQuiz
 _Guitar Chord Notes Quiz (Multiplayer)_
 A fun and interactive command-line quiz game to test your knowledge of guitar chord notes. Supports up to 4 players with equal question distribution per player, immediate feedback, and a final score display with a winner announcement.
 
@@ -9,9 +10,7 @@ Final Score Display: After the quiz ends, each player's score is displayed, and 
 
 _How to Play_
 1-Clone or download the repository.
-
 2-Make sure you have Node.js installed on your system.
-
 3-Install the required dependencies by running: npm install
 4- Run the game with: node chordQuiz.js
 5-Enter the number of players (max 4 players).
